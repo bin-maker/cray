@@ -1,5 +1,6 @@
 # cray
 ## cray：crack for xray 
+## 更新日期：2022-05-16
 
 #### 根据自己系统下载 xray 32 位或 64 位 程序
 #### 解压后将 xray 主程序命名为 xray.exe（ Linux 下则为 xray ）
